@@ -14,6 +14,12 @@ The dataset is made up of 1 files:
 ### Files:
 * [Datos Empleados.xlsx](https://github.com/IrisMejuto/Human-Resources-SKU-DON/blob/main/Datos%2BEmpleados.xlsx)
 
+## 🖇️ Model:
+
+The data modeling stage involved creating a relational data model that reflects the relationships between .
+
+![image](https://github.com/IrisMejuto/Human-Resources-SKU-DON/blob/main/Captura%20model.png)
+
 
 ## ❓Key questions the project answers
 * ✅ What is the total number of employees by department, gender and evaluation group?
