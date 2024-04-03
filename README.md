@@ -21,7 +21,7 @@ The dataset is made up of 1 files:
 
 The data modeling stage involved creating a relational data model that reflects the relationships between .
 
-![image](https://github.com/IrisMejuto/Human-Resources-SKU-DON/blob/main/Captura%20model.png)
+![image](https://github.com/IrisMejuto/Human-Resources-SKU-DON/blob/main/Images/Captura%20model.png)
 
 
 ## ❓Key questions the project answers
